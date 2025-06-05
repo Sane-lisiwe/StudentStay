@@ -1,0 +1,7 @@
+# Ignore all files in uploads
+uploads/*
+# But keep the directories
+!uploads/
+!uploads/properties/
+!uploads/.htaccess
+!uploads/index.php 
